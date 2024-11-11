@@ -35,36 +35,6 @@ def parse_json_from_file(file_path):
     with open(file_path, 'r') as file:
         return json.load(file)
 
-# Function to calculate duration in milliseconds
-def calculate_duration(progress):
-    start_time = int(progress[0]['time'])
-    end_time = int(progress[-1]['time'])
-    return end_time - start_time
-
-# Function to calculate exponential moving average of throughput for each ID
-# def calculate_throughput(data, alpha=0.3):
-#     throughput_map = {}
-#     window_size = 5
-#     # Loop through each upload data
-#     for upload in data:
-#         id = upload['id']
-#         progress = upload['progress']
-
-#         # Extract time and byte counts for this progress
-#         byte_counts = pd.Series([progress_obj['bytecount'] for progress_obj in progress])
-#         times = pd.Series([progress_obj['time'] for progress_obj in progress])
-
-#         # Calculate the EMA for byte counts over time
-#         ema_throughputs = round(byte_counts.ewm(alpha=0.5, adjust=True).sum()/
-#                                 (times.max() -
-#                                     times.min()), 2)
-#         throughput_list = ema_throughputs.tolist()
-
-#         print(final_list)
-
-#     return final_list
-
-
 # Function to calculate throughput for each interval and apply EMA
 def calculate_throughput(data, alpha=0.15, loopval = 2):
     throughput_map = {}
@@ -119,20 +89,54 @@ def calculate_throughput(data, alpha=0.15, loopval = 2):
 
     return throughput_map
 
-def aggregateTCPflows():
-    # Loop through each upload data
-    initial_max_time = 0
-    ending_time = 0
-    initial_time = 0
-    for upload in data:
-        id = upload['id']
-        progress = upload['progress']
-        if (int(progress[0]["time"]) > initial_time):
-            initial_max_time = int(progress[0]["time"])            
+def aggregateTCPflows(data):
+    initial_max_time = max(int(upload['progress'][0]['time']) for upload in data)
+    ending_time = min(int(upload['progress'][-1]['time']) for upload in data)
 
-        print("0: ", progress[0]["time"])
-        print("1: ", progress[1]["time"])
-    print (initial_time)
+    overlapping_throughput = defaultdict(list)
+
+    current_start_time = initial_max_time
+    while current_start_time < ending_time:
+        # Find the next minimum end time after the current_start_time
+        current_end_time = min(
+            min(int(progress['time']) for progress in upload['progress'] if int(progress['time']) > current_start_time)
+            for upload in data if any(int(progress['time']) > current_start_time for progress in upload['progress'])
+        )
+
+        # Calculate throughput for each ID in the current time window
+        for upload in data:
+            id = upload['id']
+            total_bytes = 0
+            total_time_interval = 0
+
+            for i in range(len(upload['progress']) - 1):
+                time1 = int(upload['progress'][i]['time'])
+                time2 = int(upload['progress'][i + 1]['time'])
+                bytecount1 = upload['progress'][i]['bytecount']
+                bytecount2 = upload['progress'][i + 1]['bytecount']
+
+                # Check if this interval overlaps with our current window
+                if time2 <= current_start_time or time1 >= current_end_time:
+                    continue  # No overlap
+
+                # Calculate overlap and adjust byte count proportionally
+                overlap_start = max(time1, current_start_time)
+                overlap_end = min(time2, current_end_time)
+                time_ratio = (overlap_end - overlap_start) / (time2 - time1)
+                bytecount_in_window = bytecount1 + (bytecount2 - bytecount1) * time_ratio
+
+                total_bytes += bytecount_in_window
+                total_time_interval += overlap_end - overlap_start
+
+            # Calculate throughput as bytes per millisecond (or appropriate time unit)
+            if total_time_interval > 0:
+                throughput = total_bytes / total_time_interval
+                overlapping_throughput[id].append((current_end_time, throughput))
+            print(overlapping_throughput[id])
+
+        # Move to the next interval
+        current_start_time = current_end_time
+
 
     
 
@@ -144,10 +148,10 @@ parser = argparse.ArgumentParser(
 parser.add_argument("serverName")
 args=parser.parse_args()
 
-loop = max_bytecounts_at_same_time("analysis/output/" +args.serverName+"/byte_time.json")
+# loop = max_bytecounts_at_same_time("analysis/output/" +args.serverName+"/byte_time.json")
 
-# Load data from file
-data = parse_json_from_file("analysis/output/" +args.serverName+"/byte_time.json")
+# # Load data from file
+# data = parse_json_from_file("analysis/output/" +args.serverName+"/byte_time.json")
 
 # Load data from file
 data = parse_json_from_file("analysis/output/" +args.serverName+"/byte_time.json")
@@ -158,4 +162,4 @@ data = parse_json_from_file("analysis/output/" +args.serverName+"/byte_time.json
 # Print throughput by IDs
 # print("Throughput by IDs:", throughput_by_ids)
 
-aggregateTCPflows()
+aggregateTCPflows(data)
