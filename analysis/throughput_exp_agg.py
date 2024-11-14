@@ -112,7 +112,7 @@ def aggregateTCPflows(data):
             for i in range(len(upload['progress']) - 1):
                 time1 = int(upload['progress'][i]['time'])
                 time2 = int(upload['progress'][i + 1]['time'])
-                bytecount1 = upload['progress'][i]['bytecount']
+                # bytecount1 = upload['progress'][i]['bytecount']
                 bytecount2 = upload['progress'][i + 1]['bytecount']
 
                 # Check if this interval overlaps with our current window
@@ -123,14 +123,14 @@ def aggregateTCPflows(data):
                 overlap_start = max(time1, current_start_time)
                 overlap_end = min(time2, current_end_time)
                 time_ratio = (overlap_end - overlap_start) / (time2 - time1)
-                bytecount_in_window = bytecount1 + (bytecount2 - bytecount1) * time_ratio
+                bytecount_in_window = bytecount2 * time_ratio
 
                 total_bytes += bytecount_in_window
                 total_time_interval += overlap_end - overlap_start
 
             # Calculate throughput as bytes per millisecond (or appropriate time unit)
             if total_time_interval > 0:
-                throughput = total_bytes / total_time_interval
+                throughput = total_bytes / (overlap_end - overlap_start)
                 overlapping_throughput[id].append((current_end_time, throughput))
             print(overlapping_throughput[id])
 
