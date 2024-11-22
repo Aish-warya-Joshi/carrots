@@ -1,34 +1,39 @@
 //Import the filesystem and path modules
 const fs = require('fs');
+const { url } = require('inspector');
 const path = require('path'); 
 
 // Check if a file path was provided
 const checkFilePath = (filePath) => {
-    if (!fs.existsSync(filePath)) {
+    const outputPath = path.posix.join(folderPath, filePath);
+
+    if (!fs.existsSync(outputPath)) {
         console.log("The file does not exist: "+ filePath);
         process.exit(1);
     }
 };
 
 // Function to read a file synchronously - from the output directory
-const readFileSync = (filePath) => {
-    fileread = fs.readFileSync(filePath, { encoding: 'utf-8' });
-    console.log('File ', filePath, ' read success!');
+const readFileSync = (fileName) => {
+    const outputPath = path.posix.join(fileName);
+    fileread = fs.readFileSync(outputPath, { encoding: 'utf-8' });
+    console.log('File ', outputPath, ' read success!');
     return fileread
 };
 
 let directory;
 // Function to write a file synchronously - in the output directory
 const writeFileSync = (fileName, data) => {
-    const outputPath = path.join(fileName); // Construct the output file path
+    const outputPath = path.posix.join(folderPath, fileName); // Construct the output file path
+    console.log('File ', outputPath, ' write!');
+
     fs.writeFileSync(outputPath, data);
-    console.log('File ', fileName, ' write success!');
-    
+    console.log('File ', outputPath, ' write success!');
 };
 
 //Function to delete a file from the system - from the output directory
 const deleteFile = (fileName) => {
-    const filePath = path.join(fileName); // Construct the full path to the file
+    const filePath = path.posix.join(folderPath, fileName); // Construct the full path to the file
     return fs.unlink(filePath, (err) => {
         if (err) {
             console.error('Error deleting file:', err);
@@ -77,18 +82,24 @@ const parseJSONFromFile = (filePath) => {
 };
 
 // Read the command line arguments
-const filePath = 'generate_netlog/' + process.argv[2] +'/output/' + process.argv[2] + '.netlog';
-const urlPath = 'generate_netlog/' + process.argv[2] +'/output/' + process.argv[2] + '_urls.txt';
+// const filePath = 'generate_netlog/' + process.argv[2] +'/output/' + process.argv[2] + '.netlog';
+// const urlPath = 'generate_netlog/' + process.argv[2] +'/output/' + process.argv[2] + '_urls.txt';
 
+const folderPath = process.argv[2]
+const serverName = process.argv[3]
+const filePath = folderPath + '/'+serverName+'.netlog'
+const urlPath = folderPath + '/'+serverName+'_urls.txt'
+console.log(filePath)
+console.log(urlPath)
 // Check if file paths were provided
 if (process.argv.length < 3) {
     console.log("Usage: node netlog.js <server_to_test>");
     process.exit(1);
 }
 
-// Check if the files exist
-checkFilePath(filePath);
-checkFilePath(urlPath);
+// // Check if the files exist
+// checkFilePath(filePath);
+// checkFilePath(urlPath);
 
 directory = filePath.substring(0, filePath.lastIndexOf('/'));
 
@@ -136,7 +147,6 @@ if (urlTypeAndForm.count === 1){
             } else {
                 eachEvent = element.slice(0, -1);
             }
-
             try {
                 const eventData = JSON.parse(eachEvent);
 
@@ -223,11 +233,16 @@ if (urlTypeAndForm.count === 1){
             }
         });
         // Write byte_time_list to file
-        writeFileSync('analysis/output/' + process.argv[2] + '/byte_time_list.json', JSON.stringify(byte_time_list, null, 2));
+        // writeFileSync('analysis/output/' + process.argv[2] + '/byte_time_list.json', JSON.stringify(byte_time_list, null, 2));
+        writeFileSync('byte_time_list.json', JSON.stringify(byte_time_list, null, 2));
         if (urltype == "upload"){
-            writeFileSync('analysis/output/' + process.argv[2] + '/current_position_list.json', JSON.stringify(current_position_list, null, 2));
+            // writeFileSync('analysis/output/' + process.argv[2] + '/current_position_list.json', JSON.stringify(current_position_list, null, 2));
+            writeFileSync('current_position_list.json', JSON.stringify(current_position_list, null, 2));
+        
         }
-        writeFileSync('analysis/output/' + process.argv[2] + '/latency.json', JSON.stringify(latency_results,null,2))
+        // writeFileSync('analysis/output/' + process.argv[2] + '/latency.json', JSON.stringify(latency_results,null,2))
+        writeFileSync('latency.json', JSON.stringify(latency_results,null,2))
+        
         console.log("Completion Successful")
     } catch (error) {
         console.error("Error reading the file:", error);
@@ -246,8 +261,9 @@ const processHttpStreamJobIds = () => {
         // Check if the file exists
         checkFilePath(urlPath);
 
-        const currentPosList = parseJSONFromFile("output/current_position_list.json");
-        checkFilePath('generate_netlog/' + process.argv[2] +'/output/current_position_list.json');
+        const currentPosList = parseJSONFromFile("current_position_list.json");
+        // checkFilePath('generate_netlog/' + process.argv[2] +'/output/current_position_list.json');
+        checkFilePath('current_position_list.json');
 
         // Populate the list array
         const list = currentPosList.map(item => item.id);
@@ -273,7 +289,9 @@ const processHttpStreamJobIds = () => {
             }
 
         });
-        writeFileSync('generate_netlog/' + process.argv[2] + '/output/httpStreamJobIds.txt', http_stream_job_ids.join('\n'));
+        // writeFileSync('generate_netlog/' + process.argv[2] + '/output/httpStreamJobIds.txt', http_stream_job_ids.join('\n'));
+        writeFileSync('httpStreamJobIds.txt', http_stream_job_ids.join('\n'));
+    
     } catch (error) {
         console.error("Error reading the file:", error);
     }
@@ -287,8 +305,11 @@ const processSocketIds = () => {
 
         // Read the URLs from the file
         // Read the content of the byte_time_list.json file
-        checkFilePath('generate_netlog/' + process.argv[2] +'/output/httpStreamJobIds.txt');
-        httpstreamJobs = readFileSync('generate_netlog/' + process.argv[2] + '/output/httpStreamJobIds.txt')
+        // checkFilePath('generate_netlog/' + process.argv[2] +'/output/httpStreamJobIds.txt');
+        checkFilePath('httpStreamJobIds.txt');
+        
+        // httpstreamJobs = readFileSync('generate_netlog/' + process.argv[2] + '/output/httpStreamJobIds.txt')
+        httpstreamJobs = readFileSync('httpStreamJobIds.txt')
 
         // const httpstreamList = httpstreamJobs.split('\n');
         if (httpstreamJobs.length !== 0) {
@@ -316,7 +337,9 @@ const processSocketIds = () => {
                 }
             });
         }
-        writeFileSync('generate_netlog/' + process.argv[2] + '/output/socketIds.txt', socketIds.join('\n'));
+        // writeFileSync('generate_netlog/' + process.argv[2] + '/output/socketIds.txt', socketIds.join('\n'));
+        writeFileSync('socketIds.txt', socketIds.join('\n'));
+    
     } catch (error) {
         console.error("Error reading the file:", error);
     }
@@ -329,8 +352,12 @@ const processByteCounts = () => {
 
         // Read the URLs from the file
         // Read the content of the byte_time_list.json file
-        checkFilePath('generate_netlog/' + process.argv[2] +'/output/socketIds.txt');
-        socketdata = readFileSync('generate_netlog/' + process.argv[2] + '/output/socketIds.txt')
+        // checkFilePath('generate_netlog/' + process.argv[2] +'/output/socketIds.txt');
+        checkFilePath('socketIds.txt');
+        
+        // socketdata = readFileSync('generate_netlog/' + process.argv[2] + '/output/socketIds.txt')
+        socketdata = readFileSync('socketIds.txt')
+        
         const byte_time_list = [];
 
         // const httpstreamList = httpstreamJobs.split('\n');
@@ -364,8 +391,9 @@ const processByteCounts = () => {
             }
             )
         }
+        // writeFileSync('analysis/output/' + process.argv[2] + '/byte_time_list.json', JSON.stringify(byte_time_list, null, 2));
 
-        writeFileSync('analysis/output/' + process.argv[2] + '/byte_time_list.json', JSON.stringify(byte_time_list, null, 2));
+        writeFileSync('byte_time_list.json', JSON.stringify(byte_time_list, null, 2));
     } catch (error) {
         console.error("Error reading the file:", error);
     }
@@ -378,8 +406,13 @@ if (urltype == "upload") {
     processByteCounts();
 
     //These are intermediary files that can be deleted at the end
-    deleteFile('analysis/output' + process.argv[2] + '/current_position_list.json');
-    deleteFile('analysis/output' + process.argv[2] + '/httpStreamJobIds.txt');
-    deleteFile('analysis/output' + process.argv[2] + '/socketIds.txt');
+    // deleteFile('analysis/output' + process.argv[2] + '/current_position_list.json');
+    // deleteFile('analysis/output' + process.argv[2] + '/httpStreamJobIds.txt');
+    // deleteFile('analysis/output' + process.argv[2] + '/socketIds.txt');
+
+    deleteFile('current_position_list.json');
+    deleteFile('httpStreamJobIds.txt');
+    deleteFile('socketIds.txt');
+
 }
 

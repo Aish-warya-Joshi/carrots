@@ -27,5 +27,5 @@ def max_bytecounts_at_same_time(file_path: str) -> Dict[str, Any]:
 
 # Example usage
 file_path = 'data.json'  # Replace with the path to your JSON file
-result = max_bytecounts_at_same_time('analysis/output/ookla/byte_time_list.json')
+result = max_bytecounts_at_same_time('./analysis/output/byte_time_list.json')
 print(result)
