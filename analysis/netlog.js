@@ -43,7 +43,7 @@ const deleteFile = (fileName) => {
     });
 }
 
-//Function that returns the url's type and form 
+//Function that returns the urls type and form 
 const getUrlTypeAndForm = (urlJSON) => {
     let urltype="", urltype2="", form=[], form2=[];
     if (urlJSON.load.length > 0) {
