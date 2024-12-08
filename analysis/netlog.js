@@ -21,7 +21,6 @@ const readFileSync = (fileName) => {
     return fileread
 };
 
-let directory;
 // Function to write a file synchronously - in the output directory
 const writeFileSync = (fileName, data) => {
     const outputPath = path.posix.join(folderPath, fileName); // Construct the output file path

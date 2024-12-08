@@ -97,7 +97,6 @@ if byte_list == []:
 
     # Plot the throughput and its EMA
     plt.figure()
-    plt.plot(df['relative_time'], df['throughput'], color='blue', marker='o', alpha=0.5, label='Throughput')
     plt.plot(df['relative_time'], df['throughput_ema'], color='red', linestyle='--', label='EMA (α=0.1)')
 
     # Add labels and legend
@@ -110,7 +109,6 @@ if byte_list == []:
 
 else:
     latency_list = load_json(latency_file)
-
 
     # Convert latency_list to a dictionary for quick lookup by sourceID
     latency_dict = {entry['sourceID']: entry for entry in latency_list}
@@ -193,7 +191,7 @@ else:
         # Plot throughput EMA over time
         plt.figure()
 
-        plt.plot(df['time'], df['throughput'], color='blue', marker='o', alpha=0.5, label='Throughput')
+        # plt.plot(df['time'], df['throughput'], color='blue', marker='o', alpha=0.5, label='Throughput')
 
         plt.plot(df['time'], df['throughput_ema'],color='red', linestyle='--', label='Throughput')
         plt.xlabel('Time (in seconds)')
