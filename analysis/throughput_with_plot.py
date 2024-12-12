@@ -153,7 +153,7 @@ if 'throughput' in df.columns:
 
     # Plot throughput EMA over time
     plt.figure()
-    # plt.plot(df['time'], df['throughput'], color='blue', marker='o', alpha=0.5, label='Throughput')
+    plt.plot(df['time'], df['throughput'], color='blue', marker='o', alpha=0.5, label='Throughput')
 
     plt.plot(df['time'], df['throughput_ema'],color='red', linestyle='--', label='Throughput')
     plt.xlabel('Time (in seconds)')
@@ -161,8 +161,8 @@ if 'throughput' in df.columns:
     plt.title(f"{args.base_path.split('/')[-2]}-{args.base_path.split('/')[-1]}")
     plt.legend()
     # plt.savefig(args.base_path + '/throughput_ema_plot.jpg')
-    plt.savefig(f"plots/{args.base_path.split('/')[-2]}-{args.base_path.split('/')[-1]}.jpg")
+    # plt.savefig(f"plots/{args.base_path.split('/')[-2]}-{args.base_path.split('/')[-1]}.jpg")
     # print(f"{args.base_path.split('/')[-2]}.jpg")
-    # plt.show()
+    plt.show()
 else:
     print("No throughput data available for plotting.")
