@@ -1,0 +1,8860 @@
+[
+  {
+    "id": 5360,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27675722"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675723"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675729"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675732"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675736"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675737"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675741"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675743"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675747"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675751"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675752"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675754"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675757"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675759"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675762"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675765"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675767"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27675771"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675773"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675776"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675779"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675781"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675783"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675788"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675790"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675792"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675795"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675796"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675799"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675800"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675802"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675804"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675806"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675808"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675810"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675812"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675814"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675816"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675817"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675819"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675821"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675823"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675825"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675826"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675829"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675831"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675832"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675835"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675837"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675837"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675839"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675843"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675844"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675846"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675847"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675848"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675850"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675851"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675853"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27675854"
+      }
+    ]
+  },
+  {
+    "id": 5374,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 49152,
+        "time": "27675923"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675924"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675927"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675930"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675931"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675932"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675933"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675935"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675938"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675939"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675940"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675942"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675943"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675946"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675947"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675947"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675949"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675950"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675953"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675954"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675955"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675957"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675958"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675958"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675960"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675961"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675962"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675964"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675966"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675968"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675970"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675971"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675973"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675974"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675975"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675976"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675978"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675979"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675981"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675982"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675983"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675989"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675990"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675990"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675996"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675997"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675998"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27675999"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676000"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676002"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676003"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676005"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676006"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676007"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676008"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676010"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676011"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676012"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27676014"
+      }
+    ]
+  },
+  {
+    "id": 5391,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27676095"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676096"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676097"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27676101"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676102"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676103"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27676106"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676107"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676108"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676109"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676110"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676111"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676112"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676117"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676118"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676119"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676120"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676122"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676123"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676124"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676125"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676128"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676129"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676129"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676130"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676131"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676133"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676134"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676135"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676140"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676141"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676142"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676143"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676144"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676145"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676146"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676147"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676148"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676150"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27676157"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676158"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676159"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676160"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676162"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676162"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676163"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676165"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676169"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676171"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676172"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676173"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676174"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676175"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676176"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676177"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676180"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676181"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27676183"
+      }
+    ]
+  },
+  {
+    "id": 5459,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27676282"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676283"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27676286"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676286"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676287"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676289"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676290"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676291"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676292"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676315"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676317"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676318"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676318"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676320"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676321"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676322"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676323"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676325"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676326"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676327"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676329"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676330"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676331"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676332"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676333"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676334"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676335"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676336"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676337"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676339"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676340"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676343"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676344"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676344"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676345"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676346"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676347"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676348"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676349"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676350"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676352"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676353"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676354"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27676357"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676358"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676359"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676360"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676361"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676362"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676363"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676364"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676365"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676366"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676369"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676369"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676372"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676374"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676375"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27676376"
+      }
+    ]
+  },
+  {
+    "id": 5517,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27676479"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676480"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676481"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676482"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676483"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676484"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676485"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676486"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676487"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676488"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676489"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676490"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676491"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676505"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676505"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676506"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676507"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676509"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676509"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676510"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676511"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676512"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676513"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676514"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676515"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676517"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676519"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676520"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676522"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676524"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676525"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676526"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676527"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676528"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676529"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676530"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676531"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676532"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676534"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676535"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676536"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676538"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676539"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676540"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676541"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676542"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676543"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676544"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676545"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676546"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676547"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676548"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676550"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676551"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676552"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676553"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676554"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676556"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676557"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676558"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27676559"
+      }
+    ]
+  },
+  {
+    "id": 5568,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27676722"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676723"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676724"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676725"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676726"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676727"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676728"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676729"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676730"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676731"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676732"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27676735"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676737"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676738"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676739"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676741"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676742"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676742"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676743"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676744"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676745"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676746"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676747"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676748"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676749"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676750"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676752"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676753"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676756"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676759"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676760"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676761"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676762"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676763"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676764"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676765"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676766"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676767"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676768"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676769"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676770"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676771"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676772"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676773"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676774"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676775"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676778"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676780"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676781"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676782"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676783"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676784"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676785"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676786"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676787"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676789"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676789"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676790"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676792"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27676795"
+      }
+    ]
+  },
+  {
+    "id": 5598,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27676946"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27676949"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676950"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676951"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676952"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676952"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676953"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676956"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676957"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676958"
+      },
+      {
+        "bytecount": 65536,
+        "time": "27676965"
+      },
+      {
+        "bytecount": 65536,
+        "time": "27676967"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676969"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676969"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676970"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27676972"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676973"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27676975"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676976"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27676978"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676980"
+      },
+      {
+        "bytecount": 49152,
+        "time": "27676984"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676985"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27676987"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676987"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676988"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676989"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27676992"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676993"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676994"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676994"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676996"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676997"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676998"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27676998"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27677000"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27677001"
+      },
+      {
+        "bytecount": 65536,
+        "time": "27677006"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27677007"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27677008"
+      },
+      {
+        "bytecount": 65536,
+        "time": "27677041"
+      },
+      {
+        "bytecount": 576,
+        "time": "27677041"
+      }
+    ]
+  },
+  {
+    "id": 5676,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27678269"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678270"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678274"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678276"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678277"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27678281"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678282"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678287"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678289"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678289"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678290"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678294"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678295"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678296"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678298"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678301"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678302"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678304"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678305"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678308"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678309"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678310"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678311"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678316"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678318"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678319"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678320"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678322"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678326"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678328"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678329"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678330"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678333"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678335"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678340"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678341"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678343"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678344"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678346"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678347"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678349"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678351"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678352"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678354"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678355"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678357"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678358"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678359"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678361"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678362"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678363"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678365"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678366"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678368"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678369"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678370"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678373"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678373"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678375"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27678377"
+      }
+    ]
+  },
+  {
+    "id": 5706,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27678436"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678437"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678438"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678439"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678447"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678448"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678450"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678452"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678452"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678454"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678455"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678456"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678458"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678460"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678461"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678462"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678464"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678465"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678466"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678468"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678469"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678470"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678472"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678473"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678474"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678474"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678476"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678477"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678479"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678480"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678482"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678483"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678485"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678485"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678486"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678487"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678489"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678492"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678493"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678494"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678495"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678497"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678499"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678499"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678501"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678502"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678502"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678504"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678505"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678508"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678510"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678511"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678512"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678513"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678514"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678515"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678516"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678517"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678521"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678522"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27678525"
+      }
+    ]
+  },
+  {
+    "id": 5712,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27678590"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678591"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678592"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678593"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678594"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678595"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678597"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678598"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678600"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678602"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678603"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678604"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678605"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678606"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678607"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678609"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678610"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678611"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678612"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678614"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678614"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678615"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678618"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678618"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678619"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678622"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678622"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678623"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678625"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678626"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678627"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678628"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678629"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678631"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678632"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678634"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678635"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678636"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678637"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678638"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678639"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678640"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678641"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678642"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678644"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678660"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678661"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678662"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678662"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678663"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678664"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678666"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678667"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678667"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678669"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678671"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678673"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678674"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678675"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678675"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27678677"
+      }
+    ]
+  },
+  {
+    "id": 5718,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27678730"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678731"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678732"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678733"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678734"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678735"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678736"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678737"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678738"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678740"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678742"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27678747"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678747"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678748"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678764"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678765"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678766"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678767"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678768"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678769"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678770"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678771"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678772"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678776"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678779"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678780"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678781"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678782"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678783"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678784"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678785"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678786"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678787"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678788"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678790"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678791"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678792"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678794"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678796"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678797"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678798"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678799"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678800"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678801"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678802"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678803"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678804"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678805"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678806"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678808"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678809"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678811"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678813"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678814"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678815"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678816"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678817"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27678820"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27678821"
+      }
+    ]
+  },
+  {
+    "id": 5724,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27678908"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678909"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678910"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678911"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678912"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678913"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678914"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678915"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678916"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678917"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678918"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678920"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678922"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678923"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678924"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678925"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678926"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678927"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678928"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678929"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678930"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678931"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678932"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678934"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678935"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678936"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678937"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678940"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678940"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678941"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678942"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678944"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678944"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678945"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678947"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678948"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678948"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678950"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678951"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678952"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678953"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678954"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678976"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678977"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678978"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678979"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678980"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678981"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678982"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678983"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678984"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678985"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678986"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678988"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678989"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678990"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678991"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678993"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678994"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27678995"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27678998"
+      }
+    ]
+  },
+  {
+    "id": 5730,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27679079"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679080"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679081"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679082"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679083"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679084"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679085"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679086"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679087"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679088"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679089"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679091"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679092"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679093"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679094"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679095"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679096"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679097"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679098"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679099"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679100"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679101"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679102"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679103"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679104"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679105"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679106"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679107"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679108"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679114"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679115"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679116"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679117"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679118"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679119"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679120"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679121"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679122"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679123"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679124"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679125"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679126"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679127"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679128"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679129"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679130"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679133"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679133"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679134"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679136"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679137"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679138"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679139"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679140"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679141"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679142"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679143"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679144"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679145"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679146"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27679150"
+      }
+    ]
+  },
+  {
+    "id": 5736,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27679231"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679235"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679236"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679237"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679238"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679239"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679240"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679241"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679242"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679243"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679244"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679246"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679247"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679248"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679249"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679250"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679251"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679252"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679254"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679255"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679256"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679257"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679258"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679259"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679277"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679278"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679279"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679281"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679282"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679282"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679284"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679285"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679285"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679286"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679287"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679289"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679290"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679291"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679292"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679293"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679294"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679295"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27679298"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679299"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679301"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679302"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679303"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679303"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679305"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679306"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679307"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679308"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679309"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679310"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679311"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679313"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679315"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679316"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679317"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27679317"
+      }
+    ]
+  },
+  {
+    "id": 5744,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27679381"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679382"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679383"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679384"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679385"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679386"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679387"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679388"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679389"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679390"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679391"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679392"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679394"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679394"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679396"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679397"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679397"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679399"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679400"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679401"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679402"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679403"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679403"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679409"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679410"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679411"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679413"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679413"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679414"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679416"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679416"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679417"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679419"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679420"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679421"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679422"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679422"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679425"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679426"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679427"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679428"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679429"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679430"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679431"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679432"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679433"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679434"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679435"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679437"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679438"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679439"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679439"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679441"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679442"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679443"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679444"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679445"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679447"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679448"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679449"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27679450"
+      }
+    ]
+  },
+  {
+    "id": 5750,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27679547"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679548"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679549"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679550"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679551"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679552"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679553"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679554"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679555"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679556"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679557"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679559"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679560"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679561"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679562"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679563"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679600"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27679601"
+      },
+      {
+        "bytecount": 49152,
+        "time": "27679602"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679604"
+      },
+      {
+        "bytecount": 65536,
+        "time": "27679607"
+      },
+      {
+        "bytecount": 65536,
+        "time": "27679607"
+      },
+      {
+        "bytecount": 65536,
+        "time": "27679608"
+      },
+      {
+        "bytecount": 65536,
+        "time": "27679608"
+      },
+      {
+        "bytecount": 65536,
+        "time": "27679608"
+      },
+      {
+        "bytecount": 65536,
+        "time": "27679608"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27679608"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679609"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679610"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679611"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679612"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679613"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679614"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679615"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679616"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679617"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679618"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679620"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27679621"
+      }
+    ]
+  },
+  {
+    "id": 5756,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27679689"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679689"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679690"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679691"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679692"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679693"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679695"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679695"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679696"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679698"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679698"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679700"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679700"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679703"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679704"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679705"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679706"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679707"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679708"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679709"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679710"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679711"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679712"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679713"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679715"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679716"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679717"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679718"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679719"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679720"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679721"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679722"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679723"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679724"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679725"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679727"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679728"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679729"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679730"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679731"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679732"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679733"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679734"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679735"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679736"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679738"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679739"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679740"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679741"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679742"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679743"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679744"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679745"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679746"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679747"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679748"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679750"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679750"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679753"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679753"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27679756"
+      }
+    ]
+  },
+  {
+    "id": 5762,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27679812"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679813"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679814"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679815"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679816"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679817"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679818"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679819"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679820"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679821"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679822"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679824"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679825"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679826"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679827"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679828"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679829"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679830"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679831"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679832"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679833"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679835"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679836"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679836"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679838"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679839"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679840"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679841"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679843"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679843"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27679847"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679848"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679849"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679850"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679851"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679852"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679852"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679854"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679855"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679856"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679857"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679858"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679859"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679860"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679861"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679862"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679864"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679865"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679866"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679868"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679869"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679870"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679871"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679872"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679873"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679874"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679875"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27679886"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27679887"
+      }
+    ]
+  },
+  {
+    "id": 5768,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27679949"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679950"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679951"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679952"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679953"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679954"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679955"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679956"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679957"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679958"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679959"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679961"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679962"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679963"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679964"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679965"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679966"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679967"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679968"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679969"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679970"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679971"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679973"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679974"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679975"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679976"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679977"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679978"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679979"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679989"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679990"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679991"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679992"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679993"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679994"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679995"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679996"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679997"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679998"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27679999"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680001"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680002"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680003"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680004"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680005"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680006"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680007"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680008"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680009"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680010"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680011"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680013"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680014"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680015"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680016"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680017"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680018"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680020"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680021"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680022"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27680023"
+      }
+    ]
+  },
+  {
+    "id": 5774,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27680085"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680086"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680087"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680088"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680089"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680090"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680091"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680092"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680093"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680094"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680097"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680097"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680098"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680100"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680101"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680101"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680104"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680105"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680105"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680106"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680108"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680109"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680110"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680111"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680112"
+      },
+      {
+        "bytecount": 49152,
+        "time": "27680116"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680116"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680118"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680118"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680120"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680121"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680122"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680123"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680124"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680126"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680127"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680128"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680129"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680131"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680132"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680133"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680134"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680135"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680136"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680137"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680138"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680139"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680140"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680142"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680143"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680144"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680145"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680146"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680147"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680148"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680149"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680150"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680151"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27680153"
+      }
+    ]
+  },
+  {
+    "id": 5780,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27680212"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680213"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680214"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680215"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680217"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680217"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680219"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680220"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680220"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680222"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680222"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680223"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680225"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680226"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680227"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680228"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680230"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680231"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680232"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680233"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680234"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680237"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680238"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680239"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680240"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680241"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680242"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680243"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680244"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680245"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680245"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680248"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680249"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680250"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680251"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680252"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680253"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680254"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680255"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680256"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680257"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680258"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680260"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680261"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680262"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680263"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680263"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680265"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680266"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680267"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680268"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680269"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680269"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680272"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680273"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680273"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680275"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680276"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680277"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680279"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27680280"
+      }
+    ]
+  },
+  {
+    "id": 5786,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27680337"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680338"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680339"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680340"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680341"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680342"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680343"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680344"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680345"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680346"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680347"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680349"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680350"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680351"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680352"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680353"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680354"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680355"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680356"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680357"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680358"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680359"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680362"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680362"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680363"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680364"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680365"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680366"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680367"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680368"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680369"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680370"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680371"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680372"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680373"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680374"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680375"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680376"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680377"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680378"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680379"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680380"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680383"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680398"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680399"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680400"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680401"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680402"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680403"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680404"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680405"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680406"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680407"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680408"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680410"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680411"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680412"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680413"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680415"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680415"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27680417"
+      }
+    ]
+  },
+  {
+    "id": 5794,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 32768,
+        "time": "27680484"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680485"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680486"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680487"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27680489"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680507"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680507"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680508"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680509"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680510"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680511"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680512"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680513"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680514"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680516"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680517"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680518"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680519"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680520"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680520"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680522"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680522"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680524"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27680535"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680535"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680538"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680539"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680540"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680541"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680542"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680543"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680544"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680545"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680546"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680547"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680548"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680549"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680550"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680551"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680552"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680553"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680554"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680555"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680556"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680559"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680560"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680564"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680565"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680566"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680567"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680568"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680569"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680570"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680571"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680573"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680574"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680574"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27680575"
+      }
+    ]
+  },
+  {
+    "id": 5800,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27680640"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680641"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680642"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680643"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680645"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680646"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680646"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680647"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680648"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680649"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680650"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680652"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680653"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680654"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680655"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680656"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680657"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680658"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680659"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680660"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680662"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680667"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680668"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680669"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680670"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680671"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680672"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680673"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680675"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680675"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680676"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680677"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680679"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680680"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680681"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680682"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680683"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680684"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680685"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680687"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680687"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680688"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680689"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680691"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680692"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680693"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680703"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680703"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680705"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680705"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27680709"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680710"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680711"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680713"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680714"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680715"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680717"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680719"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680719"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27680720"
+      }
+    ]
+  },
+  {
+    "id": 5806,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27680782"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680784"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680785"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680786"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680787"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680788"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680789"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680790"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680791"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680792"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680793"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680794"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680795"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680796"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680797"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680805"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680806"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680807"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680808"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680809"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680810"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680811"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680812"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680813"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680814"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680815"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680817"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680818"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680819"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680820"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680821"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680822"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680823"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680824"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680825"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680826"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680827"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680828"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680830"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680832"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680832"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680833"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680834"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680835"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680836"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680837"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680838"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680839"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680840"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680842"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680843"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680844"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680845"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680846"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680847"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680848"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680850"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680850"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680851"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680852"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27680854"
+      }
+    ]
+  },
+  {
+    "id": 5812,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 32768,
+        "time": "27680954"
+      },
+      {
+        "bytecount": 49152,
+        "time": "27680955"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680957"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27680958"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680958"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680959"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680960"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680962"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680963"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680964"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680965"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680966"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680967"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680968"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680969"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680970"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680971"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680972"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680974"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680975"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680976"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680977"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680978"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680979"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680980"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680981"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680982"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680983"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680984"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680985"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680986"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680987"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680988"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680989"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680990"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680991"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680992"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680993"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27680996"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680998"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27680999"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681010"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681011"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681012"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681013"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681014"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681015"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681016"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681017"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681018"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681019"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681020"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681021"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681022"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681024"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27681025"
+      }
+    ]
+  },
+  {
+    "id": 5818,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27681085"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681085"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681086"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681087"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681089"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681089"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681090"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681092"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681092"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681093"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27681098"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681098"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681099"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681100"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681101"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681102"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681103"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681116"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681117"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681118"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681119"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681120"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681121"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681122"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681123"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681124"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681125"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681126"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681127"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681128"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681129"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681130"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681131"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681132"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681133"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681134"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681135"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27681138"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681140"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681141"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681142"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681143"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681144"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681145"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681146"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681147"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681149"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681149"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681150"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681151"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681153"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681153"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681155"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681156"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681157"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27681160"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681160"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27681164"
+      }
+    ]
+  },
+  {
+    "id": 5830,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27681247"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681248"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681249"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681251"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681251"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681253"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681254"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681255"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681256"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681257"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681258"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681259"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681259"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681262"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681263"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681264"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681265"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681265"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681266"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681268"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681269"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681270"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681271"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681272"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681274"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681275"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681276"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681277"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681278"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681279"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681280"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681281"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681282"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681283"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681284"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681285"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681286"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681287"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681288"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681289"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681290"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681291"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681298"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681299"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681301"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681302"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681303"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681304"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681305"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681306"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681307"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27681331"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681332"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681333"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681334"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681335"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681336"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681337"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681338"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27681339"
+      }
+    ]
+  },
+  {
+    "id": 5836,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27681403"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681405"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681405"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681407"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681407"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681409"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681409"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681410"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681411"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681412"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681420"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681420"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681421"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681422"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681423"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681424"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681425"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681426"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681427"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681430"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681431"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681432"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681433"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681434"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681435"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681436"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681437"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681438"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681439"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681440"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681441"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681443"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681446"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681446"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681447"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681448"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681449"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681450"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681452"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681452"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681453"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681455"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681456"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681457"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681458"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681459"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681460"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681461"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681462"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681463"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681464"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681465"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681468"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681470"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681471"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681474"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681474"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681475"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681477"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681478"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27681479"
+      }
+    ]
+  },
+  {
+    "id": 5844,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27681555"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681555"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681556"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681557"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681558"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681559"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681560"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681561"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681562"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681563"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681564"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681565"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681567"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681568"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681569"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681570"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681571"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681572"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681573"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681575"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681575"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681576"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681577"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681579"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681580"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681581"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681582"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681583"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681584"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681585"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681588"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681589"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681590"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681590"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681592"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681593"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681594"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681595"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681596"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681597"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681598"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681599"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681600"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27681605"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681606"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681607"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681608"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681610"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681611"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681611"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681612"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681614"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681614"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681616"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681617"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681618"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681638"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681639"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681640"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27681643"
+      }
+    ]
+  },
+  {
+    "id": 5850,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27681729"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681730"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681731"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681732"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681733"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681734"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681735"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681736"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681737"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681738"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681739"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681740"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681742"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681743"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681744"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27681746"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681747"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681748"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681749"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681750"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681751"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681754"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681759"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681760"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681761"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681762"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681763"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681764"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681765"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681766"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681767"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681768"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681769"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681773"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681774"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681774"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681775"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681776"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681777"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27681782"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681782"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681783"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681785"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681786"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681787"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27681790"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681792"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681793"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681796"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681797"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681799"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681801"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681805"
+      },
+      {
+        "bytecount": 49152,
+        "time": "27681809"
+      },
+      {
+        "bytecount": 33344,
+        "time": "27681820"
+      }
+    ]
+  },
+  {
+    "id": 5856,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27681902"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681904"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681905"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681912"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681915"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681916"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681917"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681919"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681920"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681921"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681924"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681924"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681925"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681926"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681933"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681934"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681935"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681936"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681937"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681938"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681939"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681941"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681942"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681943"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681944"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681945"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681946"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681947"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681948"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681949"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681950"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681951"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681953"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681953"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681954"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681955"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681956"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681957"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681958"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681959"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681960"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681961"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681965"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681966"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681967"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681969"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681969"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681971"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681972"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681972"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27681975"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681976"
+      },
+      {
+        "bytecount": 49152,
+        "time": "27681979"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681980"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681981"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681982"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27681984"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27681985"
+      }
+    ]
+  },
+  {
+    "id": 5862,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27682056"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682057"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682058"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27682061"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682063"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682064"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682065"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682066"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682068"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682069"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682071"
+      },
+      {
+        "bytecount": 49152,
+        "time": "27682076"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682077"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682080"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682082"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682083"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682086"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682087"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682089"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682091"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682095"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682096"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682098"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682099"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682102"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682103"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682104"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682107"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682107"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682110"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682111"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682112"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682113"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682114"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682118"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682118"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682121"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682123"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682124"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682135"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682136"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682139"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682144"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682148"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682150"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682154"
+      },
+      {
+        "bytecount": 49152,
+        "time": "27682159"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682161"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682163"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682167"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682170"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682171"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682171"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27682175"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27682177"
+      }
+    ]
+  },
+  {
+    "id": 5873,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27682271"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682272"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682273"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682274"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682275"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682276"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682277"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682278"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682279"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682280"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682281"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682282"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682283"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682284"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682285"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682286"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682287"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682288"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682289"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682290"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682291"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682292"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682293"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682297"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682299"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682300"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682301"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682302"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682303"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682304"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682305"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682306"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682307"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682308"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682309"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682311"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682312"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682313"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682314"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682315"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682316"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682317"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682318"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682319"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682320"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682321"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682323"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682324"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682325"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682326"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682327"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682328"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682329"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682330"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682331"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682332"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682333"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682343"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682344"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682345"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27682346"
+      }
+    ]
+  },
+  {
+    "id": 5880,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27682443"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682444"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682444"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682446"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682446"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682447"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682449"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682450"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682451"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682452"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682452"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682455"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682456"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682457"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682457"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682459"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682460"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682460"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682462"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682463"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682464"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682465"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682466"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682467"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682468"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682469"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682470"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682471"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682472"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682473"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682474"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682475"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682476"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682477"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682480"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682483"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682484"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682485"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682486"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682487"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682488"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682489"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682491"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682492"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682492"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682494"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682495"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682496"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682497"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682498"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682499"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682501"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682502"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682502"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682504"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682505"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682505"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682508"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682509"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682510"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27682511"
+      }
+    ]
+  },
+  {
+    "id": 5888,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27682593"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682594"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682595"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682597"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682597"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682598"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682600"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682600"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682601"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682602"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682604"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682605"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682606"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682607"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682609"
+      },
+      {
+        "bytecount": 65536,
+        "time": "27682613"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682614"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682616"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682617"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682618"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682619"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682620"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682621"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682622"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682623"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682624"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682625"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682626"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682628"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682629"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682630"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682631"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682632"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682633"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682634"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682635"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682636"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682637"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682638"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682640"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682641"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682642"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682643"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682649"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682650"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682650"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682652"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682653"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682654"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682655"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682656"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682657"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682658"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682659"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682660"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682661"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682663"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27682664"
+      }
+    ]
+  },
+  {
+    "id": 5894,
+    "type": "download",
+    "progress": [
+      {
+        "bytecount": 16384,
+        "time": "27682757"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682758"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682759"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682760"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682761"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682762"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682763"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27682765"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682766"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682767"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682769"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682770"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682771"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682772"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682773"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682774"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682776"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682777"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682778"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682781"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682782"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682783"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682784"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682785"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682786"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682787"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27682790"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682790"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682794"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682795"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682798"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682799"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682800"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682801"
+      },
+      {
+        "bytecount": 49152,
+        "time": "27682807"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682809"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682810"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682811"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682812"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682813"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682814"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682815"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682818"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682818"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27682823"
+      },
+      {
+        "bytecount": 32768,
+        "time": "27682826"
+      },
+      {
+        "bytecount": 49152,
+        "time": "27682834"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682835"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682837"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682837"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682840"
+      },
+      {
+        "bytecount": 16384,
+        "time": "27682840"
+      },
+      {
+        "bytecount": 16960,
+        "time": "27682841"
+      }
+    ]
+  }
+]
