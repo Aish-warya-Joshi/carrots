@@ -95,7 +95,6 @@ else:
                 "bytecount": 0  # Default bytecount for the starting point
             }
             progress.insert(0, zero_time_entry)  # Prepend to the progress list
-print(byte_list)
 # Initialize aggregated list
 aggregated_time = []
 for entry in byte_list:
@@ -153,16 +152,16 @@ if 'throughput' in df.columns:
 
     # Plot throughput EMA over time
     plt.figure()
-    plt.plot(df['time'], df['throughput'], color='blue', marker='o', alpha=0.5, label='Throughput')
+    # plt.plot(df['time'], df['throughput'], color='lightblue', marker='o', alpha=0.5, label='Individual Throughput for each time')
 
-    plt.plot(df['time'], df['throughput_ema'],color='red', linestyle='--', label='Throughput')
+    plt.plot(df['time'], df['throughput_ema'],color='red', linestyle='--', label='REMA Throughput')
     plt.xlabel('Time (in seconds)')
     plt.ylabel('Throughput (in Mbps)')
-    plt.title(f"{args.base_path.split('/')[-2]}-{args.base_path.split('/')[-1]}")
+    plt.title(f"{args.base_path.split('/')[-1]}")
     plt.legend()
     # plt.savefig(args.base_path + '/throughput_ema_plot.jpg')
-    # plt.savefig(f"plots/{args.base_path.split('/')[-2]}-{args.base_path.split('/')[-1]}.jpg")
+    plt.savefig(f"plots/{args.base_path.split('/')[-1]}.jpg")
     # print(f"{args.base_path.split('/')[-2]}.jpg")
-    plt.show()
+    # plt.show()
 else:
     print("No throughput data available for plotting.")

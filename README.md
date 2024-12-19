@@ -24,7 +24,7 @@ The processed data will be written to output files in the folder structure <CARR
 
  - throughput_with_plot.py : calculates the throughput using the bytetime and time provided by netlog.js file. this file and also plots the charts using exponential moving average
 
- - execute.ps1 - A script file that can run every file in the CARROT directory and generate it's byte_time and latency files using the netlog file and also calculate the throughput and plot it.
+ - execute.ps1 - A script file that can run every file in the CARROT directory and generate it's byte_time and latency files using the netlog file and also calculate the throughput and plot it. To run this file the netlog and url files need to be under CARROT/<folder>/<subfolder>
 
  - CARROT/: Directory containing files to experiment with
     - ookla_download/: This directory has the multi and single flows that has the download experiments. 

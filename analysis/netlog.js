@@ -163,6 +163,7 @@ if (urlTypeAndForm.count === 1){
                         results.push({ sourceID: id, index: index, dict: eventData });
                     }
                 }
+                
                 if (
                     results.some(result => result.sourceID && result.sourceID.id === eventData.source.id)
                 ) {

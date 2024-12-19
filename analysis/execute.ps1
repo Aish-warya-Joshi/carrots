@@ -34,9 +34,9 @@ foreach ($MeasurementType in $MeasurementTypes) {
     foreach ($Dir in $Dirs) {
         Write-Output "Processing folders: $Dir"
 
-            $Process = Start-Process -FilePath "node" `
-                -ArgumentList "$NodeScript $BaseDir/$MeasurementType/$Dir $server" `
-                -NoNewWindow -PassThru -Wait
+            # $Process = Start-Process -FilePath "node" `
+            #     -ArgumentList "$NodeScript $BaseDir/$MeasurementType/$Dir $server" `
+            #     -NoNewWindow -PassThru -Wait
                     # Optional: If throughput is being calculated in a separate script (e.g., Python), you can call that script here:
             $ThroughputProcess = Start-Process -FilePath "python" `
                 -ArgumentList "$ThroughputScript $BaseDir/$MeasurementType/$Dir" `
